@@ -1,6 +1,6 @@
 {
   "name": "super-simple-form-hook",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A form hook that tries to be as opinionated and simple as possible, while getting rid of most of the boilerplate when building forms.",
   "repository": "https://github.com/alisternorris/react-outside-call",
   "author": "Alister Norris <hi@alisternorris.com>",
